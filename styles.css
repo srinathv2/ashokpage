@@ -1,0 +1,75 @@
+
+.navb{
+    display: flex;
+    justify-content: space-evenly;
+    height: 10vh;
+    
+}
+.links{
+    display: flex;
+    justify-content: space-between;
+}
+.login{
+    background-color: rgb(105, 145, 47);
+    border-style: none;
+    width: 50px;
+    height: 25px;
+    margin-top: 20px;
+    font-size: 10px;
+    font-style: bold;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.loc{
+    color: rgb(0, 174, 255);
+    display: flex;
+    align-content: space-between;
+}
+.links>a{
+    margin-right: 20px;
+}
+.loc>h5{
+    margin-right: 20px;
+}
+.hero{
+    height: 100vh;
+}
+.herotext>p{
+   height: 0px;
+}
+.herotext{
+    margin: 150px;
+}
+.km{
+    margin: 10px;
+}
+.km>button{
+    border-style: none;
+    background-color: rgb(105, 145, 47);
+    height: 20px;
+    font-size: 10px;
+    text-align: center;
+}
+.events{
+    margin: 150px;
+}
+.act{
+    margin: 150px;
+}
+.slides{
+    margin: 150px;
+}
+.chairman{
+    margin: 150px;
+
+}
+footer{
+    display: flex;
+    justify-content: space-between;
+}
+.f1{
+    width: fit-content;
+    margin: 20px;
+}
